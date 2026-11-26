@@ -2,7 +2,7 @@
 
 <img src="assets/banner.png" alt="SCREENLAB — Test, Analyse, Verify" width="100%">
 
-<br><br>
+
 
 <img src="assets/logo.png" alt="SCREENLAB — Test, Analyse, Verify," width="50%">
 
