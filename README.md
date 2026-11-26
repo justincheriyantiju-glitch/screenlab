@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="SCREENLAB — Test, Analyse, Verify" width="60%">
+<img src="assets/banner.png" alt="SCREENLAB — Test, Analyse, Verify" width="100%">
 
 <br><br>
 
-<img src="assets/logo.png" alt="SCREENLAB — Test, Analyse, Verify" width="100%">
+<img src="assets/logo.png" alt="SCREENLAB — Test, Analyse, Verify," width="60%">
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](#)
