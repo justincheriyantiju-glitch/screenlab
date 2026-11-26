@@ -1,10 +1,8 @@
 <div align="center">
 
-# SCREENLAB
+<img src="assets/banner.png" alt="SCREENLAB — Test, Analyse, Verify" width="100%">
 
-**Test • Analyse • Verify**
-
-*A lightweight, zero-dependency web-based display and touchscreen diagnostics toolkit.*
+<br><br>
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](#)
