@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="assets/logo.png" alt="SCREENLAB — Test, Analyse, Verify," width="30%">
+<img src="assets/logo.png" alt="SCREENLAB — Test, Analyse, Verify," width="50%">
 
 <br><br>
 
